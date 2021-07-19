@@ -1,5 +1,3 @@
-![Revature](https://github.com/pjw6193/caliber/blob/master/images/rev-brand.png) 
-
 # Core Java Evaluation - Revature
 
 ## Description
