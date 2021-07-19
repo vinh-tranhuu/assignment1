@@ -1,4 +1,4 @@
-# Core Java Evaluation - Revature
+# Core Java Evaluation
 
 ## Description
 
